@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "farmschool"
+theme = "arabica"
+paginate = 3
